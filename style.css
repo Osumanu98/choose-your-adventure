@@ -1,0 +1,25 @@
+/* this is a comment */
+
+body {
+	background-color: lightpink;
+	font-family: "Gill Sans", sans-serif;
+	color: #fff2a4;
+	/*text-align: center*/
+}
+
+h1{
+	font-family: Georgia, serif;
+}
+
+/* # is for id*/
+#container{
+	margin: 100px auto;
+	/*width: 600px;*/
+	min-width: 400px;
+	max-width: 600px;
+}
+
+/*. is for class */
+img.link {
+width: 200px;
+}
